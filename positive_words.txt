@@ -8,3 +8,7 @@ kind
 sparkle
 bloom
 radiant
+playful
+beautiful
+lovely
+gorgeous
